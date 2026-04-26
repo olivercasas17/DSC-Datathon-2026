@@ -1,0 +1,9 @@
+trigger_id,nombre,tipo,n_elegibles,pct_base,conv_rate_pct,valor_promedio_mxn,impacto_estimado_mxn
+T1_lead_credito_auto,Lead crediticio: auto,cross_sell,715,4.758735440931781,6.0,250000,10725000.0
+T2_stress_credito,Stress crediticio resoluble,retencion,94,0.6256239600665557,10.0,80000,752000.0
+T3_friccion_operacional,Fricción operacional,retencion,496,3.301164725457571,30.0,5000,743999.9999999999
+T4_solicita_escalacion,Cliente pide escalación humana,experiencia,373,2.4825291181364393,50.0,3000,559500.0
+T5_cross_sell_seguros,Cross-sell de seguros,cross_sell,280,1.8635607321131447,5.0,4800,67200.0
+T6_activacion_apple_pay,Activación Apple Pay,engagement,210,1.3976705490848587,40.0,1500,126000.0
+T7_intercepta_cancelacion,Riesgo cancelación TDC,retencion,461,3.0682196339434276,25.0,12000,1383000.0
+T8_power_user_transferencias,Power user transferencias,cross_sell,182,1.2113144758735441,15.0,7200,196560.0
